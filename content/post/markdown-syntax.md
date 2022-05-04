@@ -7,7 +7,7 @@ description = "Sample article showcasing basic Markdown syntax and formatting fo
 feature_image = "/images/francesco-ungaro-GX81x7KTfIw-unsplash.jpg"
 series = ["Themes Guide"]
 tags = ["markdown", "css", "html", "themes"]
-title = "Markdown Syntax Guide Static"
+title = "About Markup"
 
 +++
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
