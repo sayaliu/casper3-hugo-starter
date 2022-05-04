@@ -1,23 +1,15 @@
 +++
-author = "Hugo Authors"
-title = "Markdown Syntax Guide"
-date = "2019-03-11"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags = [
-    "markdown",
-    "css",
-    "html",
-    "themes",
-]
-categories = [
-    "themes",
-    "syntax",
-]
-series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
+author = "Hugo Authors"
+categories = ["themes", "syntax"]
+date = 2019-03-11T00:00:00Z
+description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 feature_image = "/images/francesco-ungaro-GX81x7KTfIw-unsplash.jpg"
-+++
+series = ["Themes Guide"]
+tags = ["markdown", "css", "html", "themes"]
+title = "Markdown Syntax Guide Static"
 
++++
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 <!--more-->
 
@@ -145,4 +137,3 @@ X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
 Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
 
 Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
-
